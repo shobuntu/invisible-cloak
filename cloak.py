@@ -6,7 +6,6 @@ Created on Mon Feb 10 12:38:29 2020
 """
 
 ##openCV to solve Harry Potter Invisible Cloak
-##Dated 9-02-2020, Author:Gaurav Chatterjee
 
 
 ##Import opencv(cv2), Numpy array(numpy) 
